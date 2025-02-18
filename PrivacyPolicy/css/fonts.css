@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	src: url('../fonts/HelveticaNeueCyr-Medium.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/HelveticaNeueCyr-Medium.woff');
+    font-weight: normal;
+    font-style: normal;
+}

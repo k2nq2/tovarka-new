@@ -1,0 +1,47 @@
+body {
+    padding: 0 0 37px 0;
+    max-width: 1920px;
+    margin-inline: auto;
+}
+.selection {
+    max-width: 1720px;
+    padding: 100px;
+}
+.container {
+    max-width: 1720px;
+    padding: 0 30px;
+}
+.img {
+}
+ 
+.div {
+    display: flex;
+    justify-content: left;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 30px;
+    font-family: HelveticaNeueCyr;
+}
+.top {
+    font-family: HelveticaNeueCyr;
+    font-size: 36px;
+    font-weight: 550;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.main {
+ 
+font-family: HelveticaNeueCyr;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+    hyphens: auto;
+    white-space: pre-wrap;
+    overflow:auto;
+    border: 0; 
+}
