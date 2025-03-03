@@ -1713,11 +1713,11 @@ ul {
 }
 @media(max-width: 600px){
     .format .title-PROpls{
-        padding-top: 5px;
+        padding-top: 9px;
     }
 }
 .format .title-PROpls{
-    border: 1px solid #000;
+    border: 1px solid #fff;
     border-radius: 5px;
     width: 142px;
     height: 64px;
