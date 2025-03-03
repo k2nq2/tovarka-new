@@ -1711,6 +1711,11 @@ ul {
     border-bottom-right-radius: 20px;
     margin-top: -5px;
 }
+@media(max-width: 600px){
+    .format .title-PROpls{
+        padding-top: 5px;
+    }
+}
 .format .title-PROpls{
     border: 1px solid #000;
     border-radius: 5px;
